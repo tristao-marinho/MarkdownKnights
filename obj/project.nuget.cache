@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "INmhMCvZn1lHFFM2qfINViMvZXuRPdALfZsoNYuUza+H2nN55zFSi/WKDu/VqGCU7xAchtavR21v4nti1urOYw==",
+  "success": true,
+  "projectFilePath": "/home/tristao/Documents/MarkdownKnights/MarkdownKnights.csproj",
+  "expectedPackageFiles": [
+    "/home/tristao/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/tristao/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/tristao/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

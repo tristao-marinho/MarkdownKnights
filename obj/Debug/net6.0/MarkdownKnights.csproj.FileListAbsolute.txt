@@ -1,0 +1,15 @@
+/home/tristao/Documents/MarkdownKnights/bin/Debug/net6.0/MarkdownKnights
+/home/tristao/Documents/MarkdownKnights/bin/Debug/net6.0/MarkdownKnights.deps.json
+/home/tristao/Documents/MarkdownKnights/bin/Debug/net6.0/MarkdownKnights.runtimeconfig.json
+/home/tristao/Documents/MarkdownKnights/bin/Debug/net6.0/MarkdownKnights.dll
+/home/tristao/Documents/MarkdownKnights/bin/Debug/net6.0/MarkdownKnights.pdb
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.csproj.AssemblyReference.cache
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.GeneratedMSBuildEditorConfig.editorconfig
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.AssemblyInfoInputs.cache
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.AssemblyInfo.cs
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.csproj.CoreCompileInputs.cache
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.dll
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/refint/MarkdownKnights.dll
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.pdb
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/MarkdownKnights.genruntimeconfig.cache
+/home/tristao/Documents/MarkdownKnights/obj/Debug/net6.0/ref/MarkdownKnights.dll
